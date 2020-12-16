@@ -1,50 +1,55 @@
-# Code Institute MS1: Personal Portfolio Project
+# KGK Mental Health Project
 
-![Website-Opening](assets/readMe/banner.png)
-
-View the live project here: https://wyne-ybanez.github.io/personal-portfolio-master/
+View the live project here: https://wyne-ybanez.github.io/mental-health-KGK/
 
 ## Project Goal
 
-This project aims to portray a junior software developer in the best light personally, technically and professionally. It should show the personality of the person, what skills and experience they have obtained throughout their journey as a developer. The project ultimately intends to pitch the junior developer as an asset to hiring businesses/companies. 
+COVID-19 has brought a lot of unease and anxiety to people who may have never encountered these feelings before, the on-going feeling of the unknown can overwhelm anyone. 
 
-Hence the target audience for this project are recruiters and users who wish to collaborate with the candidate.
+The background of our idea came from the HSE Covid-19 app where users track their physical symptoms, whether they feel good or aren’t feeling great, and the health services deliver advise on what course of action to take.  
+Following the drastic rise in those affected by negative mental health symptoms, we wanted to expand on this concept. We are providing an app where the user can track their psychological symptoms, enabling communication with mental health services who can offer help and advice, called ‘Connected’. 
 
-## UX 
 
-### Strategy 
+We hope to take advantage of the Technological savviness of the younger generation as a means of penetrating the market.  We believe it is still a Public Need which is not being fulfilled to the full effect by either private/public enterprise.
+The data collected regarding user’s symptoms can be utilized by our team. With the adoption of machine learning algorithms and psychological analysis, we aim to provide highly personalized and catered solutions to our users. 
 
-My goal for the website was to allow the user/recruiter to navigate to any section of the website with ease. Additionally, their interactions with the site should be acknowledged. The website aims to entice the user to contact the candidate once they have finished reading the content.
+## Markey Research 
 
-### Scope 
+### Market Drivers and Trends: 
 
-The website will display solely relevant information with regards to the candidate's potential. The start of the website will communicate straight off the bat, what the website was created for. It will provide an overview of the candidate's skills, experience and education. Links are provided should the user wish to contact the candidate ore research him further.
+Economic and health impacts of the COVID-19 pandemic have been asymmetric across all age groups especially youths and elderly and the Pandemic has created evident trends in mental health issues across the globe. Coronavirus has had huge implications on the Irish people’s livelihoods by ways of losing jobs, lack of social interaction and social distancing. Technology is how we aim to tackle this Lack of Communication
 
-### Structure 
+### Market Leaders: 
 
-The website incorporates a one page style design. The user will only need to scroll down to digest the content. Every section will lead to a relevant and complimentary section which is designed to maintain the user's interest. The experience should be seamless and at no point in time should the user feel lost.
+Humans are susceptible to countless illnesses, diseases, and injuries. As a group we are left aghast to the lack of attention given to our mental well-being. In a survey published by Mental Health Ireland in 2018, they reported that 93% of people felt that there was more we should be doing to improve or mental health and wellbeing. 
+Our brains are sophisticated machines, filled with emotions, thoughts, and different layers of consciousness . Given our psychological modern-day understanding, it is of our opinion that now is the perfect time to apply this psychological understanding through useful and regulatory features of Connected.  
 
-### Skeleton
+### Current market leaders and features:
 
-These wireframes are the blueprints to the project prior to any coding. These were made to help plan the project, to see how sections were to be arranged and what features could be implemented. Design decisions were made during the production of the website that may stray from what the wireframes initially conveyed.
+	- Headspace: Standard features include a timer, e-mail reminders, an app community, progress tracking, program training. Strengths: high-quality short video infographics, which compliment guided meditation tracks. Headspace has 10 million+ installs on the Google play store.
+ 
+	- Calm: Meditation, sleep aid, gentle movement and stretching, music designed to help focus, relax and sleep. Calm has10 million+ installs on the Google play store.
+ 
+	- Moodfit: Track and make daily goals to improve one’s mood, positive reinforcement messages, new habit help, mood tracker and journal, understanding relationship between lifestyle and mood. Mood has 10,000 installs on the Google play store. 
+ 
+	- Student Health App: offers plain talking reassurance, info + advice on over 125 topics. A strength of this app is its aim at university students however weaknesses could be its lack of features and home screen. Student health app has 10,000 installs on Google play store. 
+ 
+	- Chill Panda: Interactive game for kids, a panda avatar to explore world filled with positivity and coping techniques. This app is based on studies which show distraction as a key help for anxiety in kids. 
 
-  [Hero Image](wireframes/hero-img.png)
+### Gaps in the Market 
 
-  [About me](wireframes/about-me.png)
+There is currently a huge need in Ireland for health support for the public and not enough capacity for the growing demand. Coronavirus has only escalated the issues that many people have been struggling with and the public’s cry for help isn’t getting enough attention as the pandemic takes over national and global news feeds. 
+Connected is focused on improving public health by advocating the importance of addressing mental health as outlined by the WHO
 
-  [Timeline](wireframes/timeline.png) 
+###  Description of the Idea  
 
-  [Sticky Navbar](wireframes/sticky-navbar.png)
+- Our service will be delivered via app on mobile devices, tablets, and view web browser.  
 
-  [Contact Me form](wireframes/contact-me.png) 
+- The key feature of this app is the inclusion of the user’s ability to track how they feel and access their log history. 
 
-  [Projects](wireframes/projects.png) 
+- Our ‘Big Red Button’ is an emergency feature that will be instantly available on the app or through the user’s device widgets screen and without the need for internet connection. 
 
-  [Footer](wireframes/footer.png)
-
-### Surface
-
-I want to provide users and recruiters an immersive experience where the site animates accordingly both to catch the user's attention and acknowledge their actions. Ultimately appealing to the user's senses and making it seem like reading the content is instinctive, nearly second nature. The colors will contrast between white, dark, turquoise and shades of blue. 'Montserrat' will be the main font as this font style looks neat and professional.
+- Access to a support group/community, links to other mental well-being apps, tips, and advice on how to best look after yourself, and a daily motivational quote are all part of the range of features included.
 
 ## User Stories:
 
@@ -91,23 +96,23 @@ I want to provide users and recruiters an immersive experience where the site an
 
 ### Opening the website: 
 
-- The website should be consistent and objective. It should avoid straying away from promoting the candidate, this may create confusion. 
+- The website should be consistent and objective. It should avoid straying away from promoting the organizations goals, this may create confusion. 
 
 [Screenshot](assets/readMe/hero-sc.png)
 
-### About Me:
+### About Us:
 
-- To display an overview of the candidate, his current skills, a profile image, a summary text and progression bars of his technical ability
+- To display an overview of the organization, their goals, a profile/brand image, and a summary text.
 
 - Unlike the wireframe, the placements of the content has switched
 
-- This section of the page will have a call to action buttons, mainly to 'projects' and 'contact me' section. 
+- This section of the page will have a call to action buttons. 
   
 [Screenshot](assets/readMe/aboutme-sc.png)
 
 ### Work History Timeline:
 
-- To display the candidate's past work experience.
+- To display the organizations past work.
   
 - Follows the 'Timeline' wireframe accordingly
 
@@ -121,7 +126,7 @@ I want to provide users and recruiters an immersive experience where the site an
 
 ### Contact Form: 
 
-- It would be efficient if there was a way for users to contact the candidate at any point of whilst traversing their website. There is a button 'contact me' on the navigation bar to help with this.
+- It would be efficient if there was a way for users to contact the candidate at any point of whilst traversing their website. There is a button 'contact us' on the navigation bar to help with this.
 - This feature will require the user to input their contact details via a contact form. 
 - First name and the email address is required. 
 - If the candidate should ever respond, he/she will then know where/who the response is going to. 
@@ -163,7 +168,7 @@ Screenshot of page that will come after the user send their comments - [link](as
 ### Interactive: 
 
   The user should be able to interact with the website and function according to the given text
-  i.e. Clicking on 'Contact Me' should bring the user to 'contact.html'.
+  i.e. Clicking on 'Contact Us' should bring the user to 'Contact Us Form'.
 
   Fade animations should be present on accordingly as the user scrolls down.
   
@@ -176,10 +181,6 @@ Screenshot of page that will come after the user send their comments - [link](as
   The buttons leading to separate pages should appear in good time in preparation for the user's desire to know more about the candidate.
 
   The content should be clear and presented without any distractions. Ideally the user should know where and what part of the website they are reading/exploring.
-
-## Testing 
-  
-I have added the testing onto a separate .md file as its content has increased exponentially, here is the [link](https://github.com/wyne-ybanez/personal-portfolio-master/blob/main/TESTING.md)
 
 ## Technologies used:
 
@@ -221,17 +222,17 @@ I have added the testing onto a separate .md file as its content has increased e
 
 ### Github
 
-1. Log into Github and Locate the relevant repository. Here is a [link](https://github.com/wyne-ybanez/personal-portfolio-master)  
+1. Log into Github and Locate the relevant repository. Here is a [link](https://github.com/wyne-ybanez/mental-health-KGK.git)  
 2. Click on the settings buttons on the horizontal menu
 3. Scrolling down until you reach "Github pages" 
 4. There is a heading named "Source". There is a button underneath it. Click on that button and change it from "none" to "main". Then click "save"
-5. You will have to scroll down to the heading "Github Pages". The published [site](https://wyne-ybanez.github.io/personal-portfolio-master/) with the link should be there.   
+5. You will have to scroll down to the heading "Github Pages". The published [site](https://github.com/wyne-ybanez/mental-health-KGK.git) with the link should be there.   
 
 ### Forking the Repository
 
 You can fork the repository through the following steps. Forking the repository means you will have a copy of the repository and any changes you make will not affect the original repository.
 
-1. Log in to GitHub and locate the GitHub Repository. Here is a link for the [repository](https://github.com/wyne-ybanez/personal-portfolio-master)
+1. Log in to GitHub and locate the GitHub Repository. Here is a link for the [repository](https://github.com/wyne-ybanez/mental-health-KGK.git)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu. Looking towards the right of the page. Locate the button "Fork" then click 
 3. You should now have a copy of the original repository in your GitHub account
 
@@ -244,7 +245,7 @@ This is used when you would like to make changes to the project code
 3. Type `git clone`, and then paste the URL you copied 
 
 ```
-$ git clone https://github.com/wyne-ybanez/personal-portfolio-master
+$ git clone https://github.com/wyne-ybanez/mental-health-KGK.git
 ```
 
  Here is a link that can explain this process further. [Click Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop)
