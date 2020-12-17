@@ -256,7 +256,7 @@ $ git clone https://github.com/wyne-ybanez/mental-health-KGK.git
 - Icon Hover [Effects](https://codepen.io/nxworld/pen/ZYNOBZ?fbclid=IwAR1C0Fp-oCTJS1KfeV7TDmL_3KJNneOL146xKX0Y1Bl6UbP6X6TSF_SKV-k)
 - Website [favicon](https://favicon.io/favicon-generator/)
 
-## Acknowledgements
+## Code Acknowledgements
 
 - One page style website, About me section design, Project Section styling and Footer design inspired by WebCifar (Shaif Arfan).
 - I received Inspiration for the social icons within the Banner section from Code Institute Student David O' Shea, his MS1 [Project](https://www.grahamsweeney.ie/)
@@ -265,6 +265,8 @@ $ git clone https://github.com/wyne-ybanez/mental-health-KGK.git
 - Tutors at Code Institute for their on-going support
 - Jim Lynx a Code Institute lead who provided me invaluable insight 
 - Code Institute's Slack community which provided me with ideas as to how to approach the project
+
+
 
 
 
