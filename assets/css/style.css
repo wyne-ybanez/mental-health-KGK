@@ -25,7 +25,7 @@ a {
 }
 
 a:hover {
-    color: rgb(3, 213, 250);
+    color: #1E90FF;
 }
 
 .container-fluid {
@@ -108,7 +108,7 @@ a:hover {
     left: 51%;
     right: 51%;
     bottom: 0;
-    background: rgb(3, 213, 250);
+    background: #1E90FF;
     height: 4px;
     -webkit-transition-property: left, right;
     transition-property: left, right;
@@ -171,7 +171,7 @@ a:hover {
 }
 
 .social-icons .fa:hover {
-    color: rgb(3, 213, 250);
+    color: #1E90FF;
 }
 
 /*====== END OF HERO SECTION ======*/
@@ -236,7 +236,7 @@ a:hover {
 }
 
 .contactme-cta {
-    background-color: rgb(3, 213, 250);
+    background-color: #1E90FF;
     padding: 10px 20px;
     color: white;
     border-radius: 100px;
@@ -260,51 +260,6 @@ a:hover {
 
 /*====== END OF ABOUT US ======*/
 
-/*====== TESTIMONIALS ======*/
-#testimonials {
-    padding-top: 6rem;
-    padding-bottom: 12rem;
-    /* background Image full page - https://css-tricks.com/perfect-full-page-background-image/ */
-    /* To darken the background image - https://stackoverflow.com/questions/23208200/how-to-darken-a-background-using-css/36390220 */
-    background: linear-gradient(
-        rgba(0, 0, 0, 0.3), 
-        rgba(0, 0, 0, 0.9)
-        ), 
-    url('../img/background2.jpeg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-position: center;
-}
-
-#testimonials .section-heading {
-    margin-bottom: 6rem;
-}
-
-#testimonials .section-heading:after{
-    content: ""; 
-    display: block; 
-    margin: 0 auto; 
-    width: 30%; 
-    padding-top: 20px; 
-    border-bottom: 2px solid rgb(211, 9, 144);
-}
-
-#testimonials .carousel-item {
-    color: #fff;
-    padding: 0 20rem;
-}
-
-#testimonials .carousel-indicators {
-    top: 15rem;
-}
-
-#testimonials .carousel-control-next, 
-#testimonials .carousel-control-prev {
-    width: 30%;
-}
-
 /*====== PROJECTS ======*/
 
 #projects {
@@ -322,7 +277,7 @@ a:hover {
     margin: 0 auto; 
     width: 30%; 
     padding-top: 20px; 
-    border-bottom: 2px solid #00DDB8;
+    border-bottom: 2px solid rgb(211, 9, 144);
 }
 
 /* WebCifar's code - Editted & Modified: https://codepen.io/Web_Cifar/pen/dyXNVep */
@@ -338,7 +293,7 @@ a:hover {
 #projects .left {
     width: 70%;
     height: 30rem;
-    background: url(https://blog.hubspot.com/hs-fs/hubfs/frans-hals-museum-best-website-design-2018.png?width=690&name=frans-hals-museum-best-website-design-2018.png)
+    background: url('../img/data-tracker.jpeg')
     no-repeat center / cover;
     border-radius: 8px; 
     border: solid #fff;
@@ -348,7 +303,7 @@ a:hover {
 #projects .left-2 {
     width: 70%;
     height: 30rem;
-    background: url(https://blog.hubspot.com/hs-fs/hubfs/00-Blog-Related_Images/blog/images/Screen_Shot_2015-08-04_at_5.16.53_PM.png?width=667&height=353&name=Screen_Shot_2015-08-04_at_5.16.53_PM.png)
+    background: url('../img/therapist.jpeg')
     no-repeat center / cover;
     border-radius: 8px; 
     border: solid #fff;
@@ -358,17 +313,7 @@ a:hover {
 #projects .left-3 {
     width: 70%;
     height: 30rem;
-    background: url(https://blog.hubspot.com/hs-fs/hubfs/rainforest-guardians-best-website-design-2016.jpg?width=690&name=rainforest-guardians-best-website-design-2016.jpg)
-    no-repeat center / cover;
-    border-radius: 8px; 
-    border: solid #fff;
-    border-width: 3px;
-}
-
-#projects .left-4 {
-    width: 70%;
-    height: 30rem;
-    background: url(https://blog.hubspot.com/hs-fs/hubfs/1917%20homepage.png?width=1395&name=1917%20homepage.png)
+    background: url('../img/trend.jpeg')
     no-repeat center / cover;
     border-radius: 8px; 
     border: solid #fff;
@@ -385,11 +330,14 @@ a:hover {
     border-radius: 8px;
     color: #fff;
     margin-left: -100px;
+    background-color: #bdd4e7;
+    background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
 }
 
-#projects .right h1 {
-    font-size: 40px;
+#projects .right h2 {
+    font-size: 30px;
     font-weight: lighter;
+    text-align: left;
 }
 
 #projects .right p {
@@ -401,7 +349,7 @@ a:hover {
 #projects .right a {
     text-decoration: none;
     text-transform: uppercase;
-    background-color:#00DDB8;
+    background-color:rgb(211, 9, 144);
     color:#fff;
     padding: 15px 30px;
     display: inline-block;
@@ -431,7 +379,7 @@ a:hover {
     margin: 0 auto; 
     width: 30%; 
     padding-top: 20px; 
-    border-bottom: 2px solid #00DDB8;
+    border-bottom: 2px solid rgb(211, 9, 144);
 }
 
 #contactme .jumbotron {
@@ -446,10 +394,10 @@ a:hover {
     /* background Image full page - https://css-tricks.com/perfect-full-page-background-image/ */
     /* To darken the background image - https://stackoverflow.com/questions/23208200/how-to-darken-a-background-using-css/36390220 */
     background: linear-gradient(
-        rgba(0, 0, 0, 0.4), 
+        rgba(0, 0, 0, 0.01), 
         rgba(0, 0, 0, 0.7)
         ), 
-    url('../img/background.jpeg') no-repeat center center fixed;
+    url('../img/society.jpeg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -461,7 +409,7 @@ a:hover {
     margin-top: 1.5em;
     margin-left: 0;
     border-radius: 10px;
-    background-color: #00DDB8;
+    background-color: rgb(211, 9, 144);
     color: #fff;
     width: 100%;
 }
@@ -489,7 +437,7 @@ a:hover {
 .gratitude-h1, .gratitude-h2, .social-icons {   
     position: relative; 
     font-family: 'Montserrat', sans-serif;
-    color: #fff;
+    color: rgb(211, 9, 144);
     font-size: 56px;
     text-align: center;
     text-shadow: 0 1rem 1rem rgba(0, 0, 0, 1);
@@ -497,12 +445,12 @@ a:hover {
 
 .gratitude-h1 {
     padding-top: 5rem;
-    font-weight:400;
+    font-weight: 500;
 }
 
 .gratitude-h2 {
     padding-top: 3rem;
-    font-weight: 200;
+    font-weight: 600;
     font-size: 35px;
 }
 
@@ -514,7 +462,7 @@ a:hover {
     font-weight: 600;
     padding: .7rem 4rem;
     border-radius: 100px;
-    background-color:#00DDB8;
+    background-color:rgb(211, 9, 144);
     color: #fff;
 }
 
@@ -538,7 +486,7 @@ a:hover {
 }
 
 .footer a:hover {
-    color:#00DDB8;
+    color:rgb(211, 9, 144);
 }
 
 .footer .footer-social-icons {
@@ -563,7 +511,7 @@ a:hover {
     -webkit-transition-duration: 0.3s;
     -o-transition-duration: 0.3s;
     transition-duration: 0.3s;
-    color: rgb(80, 209, 198); 
+    color: rgb(211, 9, 144); 
 }
 
 /*====== Media queries - Mobile Phones - iPhone 5/SE ======*/

@@ -26,15 +26,15 @@ Our brains are sophisticated machines, filled with emotions, thoughts, and diffe
 
 ### Current market leaders and features:
 
-	- Headspace: Standard features include a timer, e-mail reminders, an app community, progress tracking, program training. Strengths: high-quality short video infographics, which compliment guided meditation tracks. Headspace has 10 million+ installs on the Google play store.
+- Headspace: Standard features include a timer, e-mail reminders, an app community, progress tracking, program training. Strengths: high-quality short video infographics, which compliment guided meditation tracks. Headspace has 10 million+ installs on the Google play store.
  
-	- Calm: Meditation, sleep aid, gentle movement and stretching, music designed to help focus, relax and sleep. Calm has10 million+ installs on the Google play store.
+- Calm: Meditation, sleep aid, gentle movement and stretching, music designed to help focus, relax and sleep. Calm has10 million+ installs on the Google play store.
  
-	- Moodfit: Track and make daily goals to improve one’s mood, positive reinforcement messages, new habit help, mood tracker and journal, understanding relationship between lifestyle and mood. Mood has 10,000 installs on the Google play store. 
+- Moodfit: Track and make daily goals to improve one’s mood, positive reinforcement messages, new habit help, mood tracker and journal, understanding relationship between lifestyle and mood. Mood has 10,000 installs on the Google play store. 
  
-	- Student Health App: offers plain talking reassurance, info + advice on over 125 topics. A strength of this app is its aim at university students however weaknesses could be its lack of features and home screen. Student health app has 10,000 installs on Google play store. 
+- Student Health App: offers plain talking reassurance, info + advice on over 125 topics. A strength of this app is its aim at university students however weaknesses could be its lack of features and home screen. Student health app has 10,000 installs on Google play store. 
  
-	- Chill Panda: Interactive game for kids, a panda avatar to explore world filled with positivity and coping techniques. This app is based on studies which show distraction as a key help for anxiety in kids. 
+- Chill Panda: Interactive game for kids, a panda avatar to explore world filled with positivity and coping techniques. This app is based on studies which show distraction as a key help for anxiety in kids. 
 
 ### Gaps in the Market 
 
@@ -51,9 +51,9 @@ Connected is focused on improving public health by advocating the importance of 
 
 - Access to a support group/community, links to other mental well-being apps, tips, and advice on how to best look after yourself, and a daily motivational quote are all part of the range of features included.
 
-## User Stories:
+## User Stories - in Progress:
 
-- ### First Time Visitor Goals:
+- ### Visitor Goals:
 
   a. I would like to know the purpose for the creation of the website from the first instance of opening it.
   <br>
@@ -64,29 +64,11 @@ Connected is focused on improving public health by advocating the importance of 
   d. I would appreciate it if my interactions with the site were acknowledged so that I know what I am doing and where I am going. 
   <br>
   e. I would like the content to be structured and easy to follow.
-  
-- ### Returning Visitor Goals:
-  
-  a. I would like to see in-depth information to the website with regards to how the candidate is improving in his ability to code. 
-  <br>
-  b. I would like to see if the candidate has completed any coding experience with other businesses.
-  <br>
-  c. I would like to it if there were a way to contact the candidate and find out more information.
-
-- ### Frequent Visitor Goals: 
-  
-  a. I would like to check if the candidate is working on any projects.
-  <br>
-  b. I want to be able to contact the candidate quickly.
-  <br>
-  c. I want to be able to navigate to any section of the website in order to read it in more detail.
-
 ## Design - In Depth
 
 ### Colour Scheme 
 
-- The overall project will use the colors turquoise, sky-blue, dark gray and white. 
-- The two main contrasting colours for the project are turquoise and blue. This will be complimented with dark and white background/texts.
+- The overall project will use the colors Hot Pink, Blue, Silver and white. 
 
 ### Fonts 
 
@@ -273,47 +255,6 @@ $ git clone https://github.com/wyne-ybanez/mental-health-KGK.git
 - MDBootstrap.com - Footer [guide](https://mdbootstrap.com/docs/jquery/navigation/footer/)
 - Icon Hover [Effects](https://codepen.io/nxworld/pen/ZYNOBZ?fbclid=IwAR1C0Fp-oCTJS1KfeV7TDmL_3KJNneOL146xKX0Y1Bl6UbP6X6TSF_SKV-k)
 - Website [favicon](https://favicon.io/favicon-generator/)
-
-### Git Bash Code
-
-- I had initially started the project with a local IDE and a local username. I forgot to configure and log the right username and email for the author. Hence, my initial contributions were not counted by Github. The solution as to how to change the author/committer email and user name is found [here](https://stackoverflow.com/questions/750172/how-to-change-the-author-and-committer-name-and-e-mail-of-multiple-commits-in-gi)
-  
-### Content
-- Index.html content was created originally
-- Using [Hubspot's blog](https://blog.hubspot.com/marketing/best-website-designs-list) website's content for projects section
-- ReadMe content for how to clone a repo in depth. This is the [link](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop)
-
-### Media 
-
-- Image for Banner Section obtained from [Unsplash](https://unsplash.com/photos/3l3RwQdHRHg)
-- Image for About Me Section is original
-- Images for projects section obtained from [Hubspot's Blog](https://blog.hubspot.com/marketing/best-website-designs-list)
-- Timeline Ending image obtained from [Daily tuition](https://github.com/akashyap2013/PortFolio_Website)
-
-## Known Bugs
-
-- There is a bug with the carousel indicator `.carousel-indicators li` by which the indicators move up and down when the testimonial section is viewed on mobile device (iPhone 6, 7, 8).
-
-- When viewed on the Macbook Air 2015 - 13", there was a bug where the blue border behind the "About me" image was not styled properly. The `height` and the `bottom` position the blue border did not apply the styles specified in style.css. However, upon viewing it on the Macbook Pro - 13" and testing on [ami responsive](http://ami.responsivedesign.is/#), the border followed its styling accordingly. 
-  
-- When viewed on Github pages using a physical mobile phone, the hero image is not clear nor is it fully presented. The hero image looks zoomed in and the alignment is unknown.
-
-## Design Changes 
-
-- The website used to incorporate a black background, this has been changed to a white background. Text colors and section backgrounds have been changed accordingly
-
-- Previously, the website would link externally to 'projects.html' and 'contactme.html'. These files have been deleted and instead the site incorporates a one page design.
-
-- Previously, it was planned that the Footer would have 3 navigation buttons as specified in the Wireframes. This has been altered and now the footer will now contain navigation links, social icons as well as contact information.
-
-## Future Implementations 
-
-- I would like to style further media queries for the website
-- To update the 'projects' section with real projects
-- To update the content to show real work experience
-- To add a download cv button in the options menu or the footer
-- To code additional Javascript animations on the website in future
-- I would like for the 'contact me' form to send any contacts to my professional email address
 
 ## Acknowledgements
 
