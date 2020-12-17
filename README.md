@@ -13,7 +13,7 @@ Following the drastic rise in those affected by negative mental health symptoms,
 We hope to take advantage of the Technological savviness of the younger generation as a means of penetrating the market.  We believe it is still a Public Need which is not being fulfilled to the full effect by either private/public enterprise.
 The data collected regarding user’s symptoms can be utilized by our team. With the adoption of machine learning algorithms and psychological analysis, we aim to provide highly personalized and catered solutions to our users. 
 
-## Markey Research 
+## Market Research 
 
 ### Market Drivers and Trends: 
 
@@ -75,65 +75,6 @@ Connected is focused on improving public health by advocating the importance of 
 - Montserrat is the font used for the body, it looks clean and professional.
 - Roboto is the secondary font - used mainly for headings.
 - Sans serif is the fallback font should the fonts be imported incorrectly.
-
-### Opening the website: 
-
-- The website should be consistent and objective. It should avoid straying away from promoting the organizations goals, this may create confusion. 
-
-[Screenshot](assets/readMe/hero-sc.png)
-
-### About Us:
-
-- To display an overview of the organization, their goals, a profile/brand image, and a summary text.
-
-- Unlike the wireframe, the placements of the content has switched
-
-- This section of the page will have a call to action buttons. 
-  
-[Screenshot](assets/readMe/aboutme-sc.png)
-
-### Work History Timeline:
-
-- To display the organizations past work.
-  
-- Follows the 'Timeline' wireframe accordingly
-
-[Screenshot](assets/readMe/timeline-sc.png)
-
-### Transparent Sticky-Navbar: 
-
-- If at any point the user should find themselves lost whilst navigating the website, they should be able to return to the home page or to the page they would like to view easily. 
-
-- Users should be able to traverse to any section of the website at any point in time.
-
-### Contact Form: 
-
-- It would be efficient if there was a way for users to contact the candidate at any point of whilst traversing their website. There is a button 'contact us' on the navigation bar to help with this.
-- This feature will require the user to input their contact details via a contact form. 
-- First name and the email address is required. 
-- If the candidate should ever respond, he/she will then know where/who the response is going to. 
-
-[Screenshot](assets/readMe/contactme-sc.png)
-
-Screenshot of page that will come after the user send their comments - [link](assets/readMe/thankyou-sc.png)
-
-### Projects: 
-  
-- It will display 4 projects. The projects will for the mean time link to external third-party websites however, in future I will link my other completed projects to this section.
-
-- It will consist of 4 projects supported by descriptive text at the side just as specified on the wireframe.
-
-[Screenshot](assets/readMe/projects-sc.png)
-
-### Footer:
-  
-- When reaching the end point of the website, there may be a further queries users would like to ask the candidate.
-  
-- Perhaps the user would like to read back over to the previous content. 
-  
-- The footer should have the relevant social links and navigation links. These can help users/recruiters to research candidate further or go back over specific content. 
-
-[Screenshot](assets/readMe/footer-sc.png)
 
 ## Features
 
@@ -233,6 +174,12 @@ $ git clone https://github.com/wyne-ybanez/mental-health-KGK.git
  Here is a link that can explain this process further. [Click Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop)
 
 ## Credits
+
+### Content and Project Creators
+
+- Gavin Kiely
+- Katie McCarthy
+- Kate Hennessy
 
 ### Code 
 
